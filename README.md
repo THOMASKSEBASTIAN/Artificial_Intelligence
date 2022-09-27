@@ -38,3 +38,9 @@ Introduction of Neural Networks https://www.ibm.com/cloud/learn/neural-networks#
 
 
 TensorFlow and Keras https://www.geeksforgeeks.org/difference-between-tensorflow-and-keras/
+
+### Traffic Signal
+
+
+Traffic signal detection https://www.analyticsvidhya.com/blog/2021/12/traffic-signs-recognition-using-cnn-and-keras-in-python/
+
