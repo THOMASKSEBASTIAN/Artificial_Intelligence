@@ -2,7 +2,8 @@
 ## Machine_Learning
 
 
-Introduction of Machine_Learning https://www.analyticsvidhya.com/machine-learning/
+Introduction of Machine_Learning
+https://www.analyticsvidhya.com/machine-learning/
 
 
 Standared Deviation and Varience https://www.mathsisfun.com/data/standard-deviation.html
@@ -17,6 +18,7 @@ Lasso and Ridge Regression https://www.analyticsvidhya.com/blog/2016/01/ridge-la
 Polynomial Regression https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/#:~:text=Polynomial%20Regression%20is%20a%20form%20of%20Linear%20regression%20known%20as,also%20badly%20affect%20the%20performance.
 
 
+KNN  https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
 
 ## Deep_Learning
 
