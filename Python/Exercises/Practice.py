@@ -14,7 +14,7 @@ for i in range(10):
 
 
 
-# Exercise 3: Print characters from a string that are present at an even index number
+# Exercise 2: Print characters from a string that are present at an even index number
 
 Name=input("Enter the Name")
 for i in Name:
