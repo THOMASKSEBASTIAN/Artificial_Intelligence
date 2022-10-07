@@ -14,11 +14,14 @@ for i in range(10):
 
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> b78cc3f19afa715881b4982d5bfd3456e83e5447
 # Exercise 2: Print characters from a string that are present at an even index number
 
 Name=input("Enter the Name")
