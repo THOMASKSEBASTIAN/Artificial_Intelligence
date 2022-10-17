@@ -2,9 +2,7 @@
 ## Machine_Learning
 
 
-Introduction of Machine_Learning
-
-[Click here](https://www.analyticsvidhya.com/machine-learning/)
+Introduction of Machine_Learning[Click here](https://www.analyticsvidhya.com/machine-learning/)
 
 
 Standared Deviation and Varience
