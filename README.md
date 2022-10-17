@@ -8,7 +8,7 @@ Introduction of [Machine_Learning](https://www.analyticsvidhya.com/machine-learn
 [Standared Deviation and Varience](https://www.mathsisfun.com/data/standard-deviation.html)
 
 
-[Simple and MultiLinear Regression](https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/)concept
+[Simple and MultiLinear Regression](https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/) concept
 
 
 Lasso and Ridge Regression 
