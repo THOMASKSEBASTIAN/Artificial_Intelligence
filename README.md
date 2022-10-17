@@ -5,9 +5,7 @@
 Introduction of [Machine_Learning](https://www.analyticsvidhya.com/machine-learning/)
 
 
-Standared Deviation and Varience
-
-https://www.mathsisfun.com/data/standard-deviation.html
+[Standared Deviation] and [Varience](https://www.mathsisfun.com/data/standard-deviation.html)
 
 
 Simple and MultiLinear Regression 
