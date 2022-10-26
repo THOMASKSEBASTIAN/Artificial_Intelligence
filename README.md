@@ -2,6 +2,10 @@
 ## Machine_Learning
 
 
+Introduction of [Numpy](https://youtu.be/NVTWjd_UpzM)
+
+
+
 Introduction of [Machine_Learning](https://www.analyticsvidhya.com/machine-learning/)
 
 
