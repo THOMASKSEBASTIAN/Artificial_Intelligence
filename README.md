@@ -19,7 +19,7 @@ Introduction of [Machine_Learning](https://www.analyticsvidhya.com/machine-learn
 [Standared Deviation and Varience](https://www.mathsisfun.com/data/standard-deviation.html)
 
 
-Simple and MultiLinear [Regression](https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/)
+Simple and MultiLinear Regression [Algorithm](https://www.analyticsvidhya.com/blog/2021/05/multiple-linear-regression-using-python-and-scikit-learn/)
 
 
 Lasso and Ridge [Regression](https://www.analyticsvidhya.com/blog/2016/01/ridge-lasso-regression-python-complete-tutorial/)
@@ -28,7 +28,9 @@ Lasso and Ridge [Regression](https://www.analyticsvidhya.com/blog/2016/01/ridge-
 Polynomial [Regression](https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/#:~:text=Polynomial%20Regression%20is%20a%20form%20of%20Linear%20regression%20known%20as,also%20badly%20affect%20the%20performance.)
 
 
- k-nearest neighbors[KNN](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
+ k-nearest neighbors(KNN)[Algorithm](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
+ 
+ Decision Tree [Algorithm](https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/)
 
 ## Deep_Learning
 
